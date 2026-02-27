@@ -28,7 +28,7 @@ Kaggle Loan Prediction Dataset
 
 ## ▶ How to Run
 1. Install requirements
-2. Open Jupyter Notebook
+2. Open Google colab Notebook
 3. Run all cells
 
 ## 👨‍💻 Author
